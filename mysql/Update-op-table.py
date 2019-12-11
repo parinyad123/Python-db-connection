@@ -6,15 +6,17 @@ mydb=mysql.connector.connect(host="localhost",
 
 mycursor=mydb.cursor()
 
-# เลือกคนแรก17
-# mycursor.execute("select name from employee")
-# myresult=mycursor.fetchone()
+sql="UPDATE employee SET salary=70000 WHERE name='ankita'"
+mycursor.execute(sql)
 
-# เลือกทั้งหมด
+mydb.commit()
+
+
+########################################################################
+#############  Show employee  ( Read-op-table.py )####################
 mycursor.execute("Select * from employee")
 myresult=mycursor.fetchall()
 
 for row in myresult:
     print(row)
-
-# run in sql >> select name from employee;
+#######################################################################
