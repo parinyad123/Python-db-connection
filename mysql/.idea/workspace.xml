@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f7a5515-c337-421b-aac5-eca2c34ab188" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Insert-op-table.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Create-tb-python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Create-tb-python.py" afterDir="false" />
     </list>
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Create-tb-python">
+  <component name="RunManager" selected="Python.Insert-op-table">
     <configuration name="Create-tb-python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testDB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python-db-creation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Insert-op-table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testDB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-db-creation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insert-op-table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Insert-op-table" />
         <item itemvalue="Python.Create-tb-python" />
         <item itemvalue="Python.mySQL" />
         <item itemvalue="Python.SQLconnect" />
         <item itemvalue="Python.Python-db1-creation" />
-        <item itemvalue="Python.Python-db-creation" />
       </list>
     </recent_temporary>
   </component>
@@ -177,22 +178,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576040259611" />
-    <state width="369" height="251" key="GridCell.Tab.0.bottom" timestamp="1576049250630">
+    <state width="1304" height="251" key="GridCell.Tab.0.bottom" timestamp="1576054095883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="369" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
-    <state width="369" height="251" key="GridCell.Tab.0.center" timestamp="1576049250630">
+    <state width="1304" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576054095883" />
+    <state width="1304" height="251" key="GridCell.Tab.0.center" timestamp="1576054095883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="369" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
-    <state width="369" height="251" key="GridCell.Tab.0.left" timestamp="1576049250630">
+    <state width="1304" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576054095883" />
+    <state width="1304" height="251" key="GridCell.Tab.0.left" timestamp="1576054095883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="369" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
-    <state width="369" height="251" key="GridCell.Tab.0.right" timestamp="1576049250630">
+    <state width="1304" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576054095883" />
+    <state width="1304" height="251" key="GridCell.Tab.0.right" timestamp="1576054095883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="369" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
+    <state width="1304" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576054095883" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1576047946049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

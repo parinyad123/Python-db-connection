@@ -13,3 +13,5 @@ mycursor.execute("show tables")
 
 for tb in mycursor:
     print(tb)
+
+# run in sql >> describe employee;
