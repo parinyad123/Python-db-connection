@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f7a5515-c337-421b-aac5-eca2c34ab188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Create-tb-python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create-tb-python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Create-tb-python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +29,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.mySQL">
+  <component name="RunManager" selected="Python.Create-tb-python">
+    <configuration name="Create-tb-python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Create-tb-python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python-db-creation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testDB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,27 +137,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in testDB" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="testDB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Create-tb-python" />
         <item itemvalue="Python.mySQL" />
         <item itemvalue="Python.SQLconnect" />
         <item itemvalue="Python.Python-db1-creation" />
         <item itemvalue="Python.Python-db-creation" />
-        <item itemvalue="Python tests.Unittests in testDB" />
       </list>
     </recent_temporary>
   </component>
@@ -166,26 +173,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="681" height="251" key="GridCell.Tab.0.bottom" timestamp="1576033889654">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1576040259611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="681" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576033889654" />
-    <state width="681" height="251" key="GridCell.Tab.0.center" timestamp="1576033889654">
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576040259611" />
+    <state width="369" height="251" key="GridCell.Tab.0.bottom" timestamp="1576049250630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="681" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576033889654" />
-    <state width="681" height="251" key="GridCell.Tab.0.left" timestamp="1576033889654">
+    <state width="369" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
+    <state width="369" height="251" key="GridCell.Tab.0.center" timestamp="1576049250630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="681" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576033889654" />
-    <state width="681" height="251" key="GridCell.Tab.0.right" timestamp="1576033889654">
+    <state width="369" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
+    <state width="369" height="251" key="GridCell.Tab.0.left" timestamp="1576049250630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="681" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576033889654" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1576038925054">
+    <state width="369" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
+    <state width="369" height="251" key="GridCell.Tab.0.right" timestamp="1576049250630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576038925054" />
+    <state width="369" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576049250630" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1576047946049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576047946049" />
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576038775753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
