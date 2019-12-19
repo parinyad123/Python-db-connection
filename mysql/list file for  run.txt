@@ -4,3 +4,4 @@ Create-tb-python
 Insert-op-table
 Read-op-table
 Update-op-table
+Delete-op-table
